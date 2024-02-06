@@ -1,0 +1,93 @@
+[36mDirectory tree for: /Users/vpro/Documents/GitHub/WebSolvusPlatform/src/app/template watchvid/watchvid1[0m
+404.html
+blog-single.html
+contact.html
+[33mcss[0m/
+  animate.min.css
+  bootstrap.min.css
+  datepicker.css
+  font-awesome.min.css
+  icofont.css
+  magnific-popup.css
+  nice-select.css
+  normalize.css
+  owl-carousel.css
+  responsive.css
+  slicknav.min.css
+[33mfonts[0m/
+  fontawesome-webfont.eot
+  fontawesome-webfont.svg
+  fontawesome-webfont.ttf
+  fontawesome-webfont.woff
+  fontawesome-webfont.woff2
+  icofont.eot
+  icofont.svg
+  icofont.ttf
+  icofont.woff
+  icofont.woff2
+[33mimg[0m/
+  about-img.jpg
+  author1.jpg
+  author2.jpg
+  author3.jpg
+  blockqoute-bg.jpg
+  blog-sidebar1.jpg
+  blog-sidebar2.jpg
+  blog-sidebar3.jpg
+  blog1.jpg
+  blog2.jpg
+  blog3.jpg
+  bread-bg.jpg
+  call-bg.jpg
+  client-bg.jpg
+  client1.png
+  client2.png
+  client3.png
+  client4.png
+  client5.png
+  contact-img.png
+  favicon.png
+  fun-bg.jpg
+  logo.png
+  map-marker.png
+  mission-img.jpg
+  pf1.jpg
+  pf2.jpg
+  pf3.jpg
+  pf4.jpg
+  section-img.png
+  signup-bg.jpg
+  slider.jpg
+  slider2.jpg
+  slider3.jpg
+  testi-bg.jpg
+  video-bg.jpg
+  websolvus_logo_2.png
+index.html
+[33mjs[0m/
+  bootstrap-datepicker.js
+  bootstrap.min.js
+  colors.js
+  easing.js
+  gmaps.min.js
+  jquery-migrate-3.0.0.js
+  jquery-ui.min.js
+  jquery.counterup.min.js
+  jquery.magnific-popup.min.js
+  jquery.min.js
+  jquery.nav.js
+  jquery.scrollUp.min.js
+  main.js
+  map-active.js
+  niceselect.js
+  owl-carousel.js
+  popper.min.js
+  slicknav.min.js
+  steller.js
+  tilt.jquery.min.js
+  wow.min.js
+[33mmail[0m/
+  mail.php
+portfolio-details.html
+services.html
+style.css

@@ -15,7 +15,11 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet" />
     <!-- CSS principal du thème (inclut Bootstrap) -->
     <link href="css/styles.css" rel="stylesheet" />
-    
+    <style>
+        body {
+            background-color: blue; /* Couleur d'arrière-plan bleue */
+        }
+    </style>
 </head>
 <body>
     <!-- Vidéo d'arrière-plan -->
@@ -24,8 +28,7 @@
     <div class="masthead">
         <div class="masthead-content text-black">
             <div class="container-fluid px-4 px-lg-0">
-
-                <img src="assets/img/watchvid_logo1.jpg" alt="WatchVid Logo" class="mb-4" width="450" height="100" /> <!-- Ajout du logo WatchVid avec une largeur de 200 pixels et une hauteur de 100 pixels -->
+                <img src="assets/img/watchvid_logo1.jpg" alt="WatchVid Logo" class="mb-4 img-fluid" style="max-width: 100%;" /> <!-- Ajout du logo WatchVid avec une largeur de 100% -->
                 <h1 class="fst-italic lh-1 mb-4">WatchVid - Votre Sanctuaire Vidéo de Confiance</h1>
                 <p class="mb-5">WatchVid est la meilleure plateforme pour quiconque possède du contenu et souhaite le partager de manière sécurisée. Nous nous engageons à fournir un espace sûr et de confiance pour que les utilisateurs partagent leurs vidéos avec le monde. Inscrivez-vous ci-dessous pour recevoir des mises à jour et être notifié de notre lancement !</p>
                 <form id="contactForm" data-sb-form-api-token="API_TOKEN">
